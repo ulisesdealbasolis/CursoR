@@ -34,6 +34,7 @@ Escribe una función que lea un directorio lleno de archivos e informe el númer
 Este programa esta estable pero no funciona con vectores para la variable ID.
 
 3- Parte 3 [Programa Corr](corr.r)
+
 Escribe una función que tome un directorio de archivos de datos y un umbral para casos completos y calcula la correlación entre sulfato y nitrato para ubicaciones de monitoreo donde el número de casos completamente observados (en todas las variables) es mayor que el umbral. La función debe devolver un vector de correlaciones para los monitores que cumplen con el requisito de umbral. Si ningún monitor cumple con el requisito de umbral, entonces la función debe devolver un vector numérico de longitud 0. 
 
 Este progrrma es estable y funciona bien.
